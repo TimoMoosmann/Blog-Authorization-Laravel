@@ -1,0 +1,12 @@
+.blogEntry {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+form button {
+    float: right;
+    background-color:white;
+    cursor: pointer;
+}
+

@@ -1,0 +1,46 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Courier New', monospace;
+}
+
+.container {
+    position: relative;
+    width: 70%;
+    margin: auto;
+    text-align:center;
+}
+
+.blogEntryEdit {
+    background-color: #eda798;
+    margin: 20px;
+    padding: 10px;
+}
+
+.blogEntryEdit input {
+    border: 1px solid black;
+    width: 80%;
+}
+
+.blogEntryEdit textarea {
+    border: 1px solid black;
+    width: 80%;
+}
+
+.blogEntryEdit button {
+    border-radius: 2px;
+    background-color: white;
+    font-family: inherit;
+    padding: 5px;
+    margin: 10px;
+}
+
+.centerButton {
+    text-align: center;
+    margin: auto;
+}
+
+.login {
+}

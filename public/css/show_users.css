@@ -1,0 +1,12 @@
+table {
+    position: absolute;
+    width: 100%;
+}
+
+thead {
+    background-color: #eda798;
+}
+
+tbody {
+    background-color: #efebea;
+}
