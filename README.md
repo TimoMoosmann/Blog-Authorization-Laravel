@@ -20,7 +20,7 @@ A server should be started at port 8000. Access it with `localhost:8000` from yo
 Then access one of the following routes.
 
 #### Show Blog Posts
-##### /
+##### /blogEntries
 Overview of all blog posts. Click to see a blog posts content.
 Edit and delete options are only available if you are logged in as the author of a post, or as admin.
 
@@ -38,7 +38,7 @@ Only available as admin. See a list of all registered users, their roles, and Em
 #### Create and edit Blog Posts
 ##### /blogEntries/create
 Only available for users with role writer or admin. Write a new blog post, which appears on `/` for all users.
-##### /
+##### /blogEntries
 If you are logged in and your role is writer, you can delete and edit your own posts.
 If you are logged as admin you can delete and edit all posts.
 
