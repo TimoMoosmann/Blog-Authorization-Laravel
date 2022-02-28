@@ -20,6 +20,8 @@ class DatabaseSeeder extends Seeder
         User::factory(3)->hasBlogEntries(3)->create([
             'role' => 'writer']);
         User::factory(1)->hasBlogEntries(5)->create([
+            'name' => 'Lester',
+            'email' => 'lester@mail.com',
             'role' => 'admin']);
     }
 }
