@@ -1,6 +1,7 @@
-# The Project
+# Simple Laravel Blog
 
-Simple PHP Laravel Project to showcase some of Laravels authorization features.
+A simple blog, implemented in PHP Laravel to showcase some of Laravels
+authorization features.
 
 ## Setup
 Open a terminal and `cd` into the project folder.
