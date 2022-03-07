@@ -1,6 +1,6 @@
 # Simple Laravel Blog
 
-A simple blog, implemented in PHP Laravel to showcase some of Laravels
+A simple blog, implemented in PHP Laravel, to showcase some of Laravels
 authorization features.
 
 ## Setup
